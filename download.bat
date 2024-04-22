@@ -43,6 +43,6 @@ set "red_bg=[0;37;41m"
 set "nc=[0m"
 
 rem Call the function with the folder name and file name as arguments
-call :clone_repositories "out\repos" "repos.txt"
-call :clone_repositories "out\core" "core-repos.txt"
-call :clone_repositories "out\core\template" "template-core-repos.txt"
+call :clone_repositories "out\repos" "repos"
+call :clone_repositories "out\core" "core-repos"
+call :clone_repositories "out\core\template" "template-core-repos"
