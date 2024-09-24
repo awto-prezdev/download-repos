@@ -39,6 +39,7 @@ red_bg='\033[0;37;41m' # White with red background
 nc='\033[0m' # No color
 
 # Call the function with the folder name and file name as arguments
-clone_repositories "out/repos" "repos"
+clone_repositories "out/backend" "backend-repos"
 clone_repositories "out/core" "core-repos"
-clone_repositories "out/core/template" "template-core-repos"
+clone_repositories "out/frontend" "frontend-repos"
+clone_repositories "out/others" "other-repos"
