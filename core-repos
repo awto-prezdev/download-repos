@@ -1,9 +1,9 @@
 git@bitbucket.org:sbreit/awto-acl.git
 git@bitbucket.org:sbreit/core-database.git
 git@bitbucket.org:sbreit/core-ms-accounts.git
-https://github.com/awto-latam/core-ms-membership
+git@bitbucket.org:sbreit/core-ms-membership.git
 git@bitbucket.org:sbreit/core-ms-payments.git
-https://github.com/awto-latam/core-ms-promotion
+git@bitbucket.org:sbreit/ms-core-promotions.git
 git@bitbucket.org:sbreit/core-ms-roles.git
 git@bitbucket.org:sbreit/core-ms-users.git
 git@bitbucket.org:sbreit/publish-broker-object.git
