@@ -14,7 +14,6 @@ git@bitbucket.org:sbreit/bff-payment-method-registration.git
 git@bitbucket.org:sbreit/bff-trips.git
 git@bitbucket.org:sbreit/bff_payments.git
 git@bitbucket.org:sbreit/bff-customers.git
-git@bitbucket.org:sbreit/tripculator.git
 git@bitbucket.org:sbreit/awto-acl
 git@bitbucket.org:sbreit/ms-vehicles.git
 git@bitbucket.org:sbreit/ms-oauth.git

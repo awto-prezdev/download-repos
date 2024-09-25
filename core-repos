@@ -3,7 +3,6 @@ git@bitbucket.org:sbreit/core-database.git
 git@bitbucket.org:sbreit/core-ms-accounts.git
 git@bitbucket.org:sbreit/core-ms-membership.git
 git@bitbucket.org:sbreit/core-ms-payments.git
-git@bitbucket.org:sbreit/ms-core-promotions.git
 git@bitbucket.org:sbreit/core-ms-roles.git
 git@bitbucket.org:sbreit/core-ms-users.git
 git@bitbucket.org:sbreit/publish-broker-object.git
